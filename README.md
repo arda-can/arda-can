@@ -16,7 +16,6 @@ Kayseri Üniversitesi öğrencisiyim. Yazılım geliştirme serüvenimde özelli
 - 🎓 **I am a student at Kayseri University.**
 - 🔭 **I’m currently working on:** Data Science & AI Projects.
 - 🌱 **I’m currently learning:** Python, C, C# & Data Analysis Tools.
-- 💡 **I am interested in:** Game Development & Automation.
 - 📫 **How to reach me:** [ardacan.tunc@hotmail.com](mailto:ardacan.tunc@hotmail.com)
 
 ---
