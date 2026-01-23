@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arda Can Tunç</h1>
 <h3 align="center">Data Science Enthusiast | Kayseri University Student</h3>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-448f-98d0-25211997092d.gif" width="500" alt="coding-gif"/>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arda-can&label=Profile%20views&color=0e75b6&style=flat" alt="arda-can" />
 </p>
@@ -57,6 +61,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en" alt="arda-can" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&" alt="arda-can" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en" height="180" alt="arda-can" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&" height="180" alt="arda-can" />
 </div>
