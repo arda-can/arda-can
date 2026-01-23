@@ -2,17 +2,11 @@
 <h3 align="center">Data Science Enthusiast | Kayseri University Student</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-448f-98d0-25211997092d.gif" width="500" alt="coding-gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-448f-98d0-25211997092d.gif" width="400" alt="coding-gif"/>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arda-can&label=Profile%20views&color=0e75b6&style=flat" alt="arda-can" />
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arda-can&theme=dark" alt="arda-can" />
-  </a> 
 </p>
 
 ---
