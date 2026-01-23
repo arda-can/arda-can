@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arda-can" alt="arda-can" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arda-can&theme=dark" alt="arda-can" />
   </a> 
 </p>
 
@@ -55,12 +55,12 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arda-can&show_icons=true&locale=en&layout=compact" alt="arda-can" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arda-can&show_icons=true&locale=en&layout=compact&theme=dark" alt="arda-can" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en" height="180" alt="arda-can" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&" height="180" alt="arda-can" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en&theme=dark" height="180" alt="arda-can" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&theme=dark" height="180" alt="arda-can" />
 </div>
