@@ -46,12 +46,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arda-can&show_icons=true&locale=en&layout=compact&theme=dark" alt="arda-can" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arda-can&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="arda-can-langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en&theme=dark&count_private=true" height="180" alt="arda-can stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&theme=dark" height="180" alt="arda-can streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en&theme=dark&count_private=true&hide_border=true" height="180" alt="arda-can-stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&theme=dark&hide_border=true" height="180" alt="arda-can-streak" />
 </div>
