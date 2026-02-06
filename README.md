@@ -12,7 +12,6 @@
 ---
 
 <div align="center">
-  
   <h3>🚀 Hakkımda (About Me)</h3>
   
   <p>
@@ -20,20 +19,18 @@
     C#, C ve Python dillerini kullanarak projeler geliştiriyor ve sürekli yeni teknolojiler öğreniyorum.
   </p>
   
-  <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;🌍 <b>I'm from Turkey.</b><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;🎓 <b>I am a student at Kayseri University.</b><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;🔭 <b>I’m currently working on:</b> Data Science & AI Projects.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;🌱 <b>I’m currently learning:</b> Python, C, C# & Data Analysis Tools.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;📫 <b>How to reach me:</b> <a href="mailto:ardacan.tunc@hotmail.com">ardacan.tunc@hotmail.com</a>
+  <p align="center">
+    🌍 <b>I'm from Turkey.</b> | 🎓 <b>I am a student at Kayseri University.</b><br>
+    🔭 <b>I’m currently working on:</b> Data Science & AI Projects.<br>
+    🌱 <b>I’m currently learning:</b> Python, C, C# & Data Analysis Tools.<br>
+    📫 <b>How to reach me:</b> <a href="mailto:ardacan.tunc@hotmail.com">ardacan.tunc@hotmail.com</a>
   </p>
-
 </div>
 
 <div align="center">
   <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/arda-tunc-44a551256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda-tunc-44a551256" height="30" width="40" /></a>
-  <a href="https://instagram.com/ardacan.tunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardacan.tunc" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arda-tunc-44a551256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda-tunc" height="30" width="40" /></a>
+  <a href="https://instagram.com/ardacan.tunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardacan-tunc" height="30" width="40" /></a>
 </div>
 
 <hr/>
@@ -55,6 +52,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en&theme=dark" height="180" alt="arda-can" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&theme=dark" height="180" alt="arda-can" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-can&show_icons=true&locale=en&theme=dark&count_private=true" height="180" alt="arda-can stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-can&theme=dark" height="180" alt="arda-can streak" />
 </div>
